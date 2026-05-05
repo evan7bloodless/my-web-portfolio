@@ -1,7 +1,12 @@
-.highlight {
+.highlight-upper {
   color: #53c984;
   text-transform: uppercase;
 }
+
+.highlight {
+  color: #53c984;
+}
+
 
 .soundwave-container {
   display: flex;
@@ -29,4 +34,8 @@
     transform: scaleY(10);
     background-color: rgba(83, 201, 132, 1);
   }
+}
+
+a {
+  color: rgb(83, 201, 132);
 }
