@@ -40,7 +40,9 @@ export function ProjectList() {
         <h1>Focused on <span className='highlight'>clean code</span>, <span className='highlight'>type safety</span>, <br />and <span className='highlight'>efficient performance</span>.</h1>
         <p><a href="https://github.com/evan7bloodless/my-web-portfolio" target="_blank" rel="noopener noreferrer">
           my-web-portfolio
-        </a> (React, TypeScript, Vite) — Personal portfolio built with React, TypeScript, and Vite.<br/>
+        </a> (<a href="https://evan7bloodless.github.io/my-web-portfolio/" target="_blank" rel="noopener noreferrer">
+          visit site
+        </a>) (React, TypeScript, Vite) — Personal portfolio built with React, TypeScript, and Vite.<br/>
         <a href="https://github.com/evan7bloodless/file-converter" target="_blank" rel="noopener noreferrer">
           file-converter
         </a> (Python) — A Python-based tool for fast and efficient file conversion.<br/>
